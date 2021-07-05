@@ -17,7 +17,7 @@ html {
   background-color: lightslategray;
 }
 .calculator {
-  height: 60vh;
+  height: 40vh;
   width: auto;
   display: flex;
   align-items: center;
@@ -68,7 +68,7 @@ button {
     padding: 1rem;
   }
   .calculator {
-    height: 60vh;
+    height: 48vh;
     width: auto;}
 }
 .slide-in-top {
