@@ -67,6 +67,9 @@ button {
     font-size: 2.5rem;
     padding: 1rem;
   }
+  .calculator {
+    height: 70%;
+    width: auto;}
   
 }
 .slide-in-top {
