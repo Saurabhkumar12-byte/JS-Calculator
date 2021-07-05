@@ -17,7 +17,7 @@ html {
   background-color: lightslategray;
 }
 .calculator {
-  height: 55rem;
+  height: 65rem;
   width: auto;
   display: flex;
   align-items: center;
