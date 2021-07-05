@@ -17,7 +17,7 @@ html {
   background-color: lightslategray;
 }
 .calculator {
-  height: 45rem;
+  height: 60vh;
   width: auto;
   display: flex;
   align-items: center;
@@ -67,6 +67,9 @@ button {
     font-size: 2.5rem;
     padding: 1rem;
   }
+  .calculator {
+    height: 60vh;
+    width: auto;}
 }
 .slide-in-top {
   -webkit-animation: slide-in-top 2s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
