@@ -17,7 +17,7 @@ html {
   background-color: lightslategray;
 }
 .calculator {
-  height: 55rem;
+  height: 45rem;
   width: auto;
   display: flex;
   align-items: center;
@@ -34,7 +34,7 @@ table {
 }
 #input {
   margin: auto;
-  width: 87%;
+  width: 91%;
   font-size: 2.2rem;
   margin-top: 1.5rem;
   padding: 0.9rem;
