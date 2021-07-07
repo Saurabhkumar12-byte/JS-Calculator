@@ -17,6 +17,7 @@ html {
   background-color: lightslategray;
 }
 .calculator {
+ 
   height: 40%;
   width: auto;
   display: flex;
@@ -122,4 +123,10 @@ button {
   100% {
     background: #b22cff;
   }
+}
+.box-shadow{
+  box-shadow: 4px 4px 2px #ccc;
+  -moz-box-shadow: 10px 10px 5px #ccc;
+  -webkit-box-shadow: 10px 10px 5px #ccc;
+  -khtml-box-shadow: 10px 10px 5px #ccc;
 }
