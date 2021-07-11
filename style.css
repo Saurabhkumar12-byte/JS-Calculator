@@ -17,7 +17,6 @@ html {
   background-color: lightslategray;
 }
 .calculator {
- 
   height: 40%;
   width: auto;
   display: flex;
@@ -71,9 +70,23 @@ button {
   }
   .calculator {
     /* height: 75%; */
-    min-height: 70vh;
-    width: auto;}
-  
+    /* min-height: 70vh; */
+    width: auto;
+  }
+  button {
+    font-size: 2rem;
+    padding: 1rem;
+    height: 5rem;
+    width: 5rem;
+    text-align: center;
+    outline: none;
+    border-radius: 1rem;
+    background-color: blanchedalmond;
+    font-weight: 600;
+    cursor: pointer;
+
+    border: 2px solid oldlace;
+  }
 }
 .slide-in-top {
   -webkit-animation: slide-in-top 2s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
@@ -125,7 +138,7 @@ button {
     background: #b22cff;
   }
 }
-.box-shadow{
+.box-shadow {
   box-shadow: 4px 4px 2px #ccc;
   -moz-box-shadow: 10px 10px 5px #ccc;
   -webkit-box-shadow: 10px 10px 5px #ccc;
