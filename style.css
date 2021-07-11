@@ -71,6 +71,7 @@ button {
   }
   .calculator {
     /* height: 75%; */
+    min-height: 70vh;
     width: auto;}
   
 }
